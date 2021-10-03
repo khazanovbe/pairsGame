@@ -1,0 +1,13 @@
+.container{
+    max-width: 1200px;
+}
+
+.game-field{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 100%;
+}
+.hide{
+    display:none;
+}
